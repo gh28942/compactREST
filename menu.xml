@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu currency="$">
+	<appetizers>
+		<entry id="1">
+			<name>Spinach and Artichoke Dip</name>
+			<ingredients>mozzarella, tortilla chips</ingredients>
+			<price>8.95</price>
+		</entry>
+		<entry id="2">
+			<name>Fried Mozzarella</name>
+			<ingredients>marinara sauce</ingredients>
+			<price>8.95</price>
+		</entry>
+		<entry id="3">
+			<name>Buffalo Wings</name>
+			<ingredients>bleu cheese, celery</ingredients>
+			<price>8.95</price>
+		</entry>
+		<entry id="4">
+			<name>Calamari</name>
+			<ingredients>Fried squid, marinara sauce</ingredients>
+			<price>8.95</price>
+		</entry>
+		<entry id="5">
+			<name>Fried Pickles</name>
+			<ingredients>horseradish sauce</ingredients>
+			<price>7.95</price>
+		</entry>
+	</appetizers>
+	<soupsandsalads description="Served with bread.">
+		<entry id="6">
+			<name>Soup and Salad</name>
+			<ingredients>Soup of the day, house salad</ingredients>
+			<price>9.95</price>
+		</entry>
+		<entry id="7">
+			<name>Greek Salad</name>
+			<ingredients>tomato, cucumbers, pepperoncini, feta cheese, black olives, Greek vinaigrette</ingredients>
+			<price>8.95</price>
+		</entry>
+		<entry id="8">
+			<name>Caesar Salad</name>
+			<ingredients>Romaine lettuce, Caesar dressing, parmesan cheese, black olives, artichokes</ingredients>
+			<price>8.95</price>
+		</entry>
+		<entry id="9">
+			<name>Spinach Salad</name>
+			<ingredients>mushrooms, eggs, red onions, tomato, bacon, sweet Vidalia onion dressing</ingredients>
+			<price>9.95</price>
+		</entry>
+		<entry id="10">
+			<name>House Salad</name>
+			<ingredients>mixed lettuce, tomato, green bell peppers, mozzarella, red onions, croutons</ingredients>
+			<price>8.95</price>
+		</entry>
+	</soupsandsalads>
+	<sandwiches description="Served with any side dish.">
+		<entry id="11">
+			<name>Italian Club</name>
+			<ingredients>ham, pepperoni, salami, provolone, tomatoes, lettuce, onions, green bellpeppers, Italianvinaigrette, sub roll</ingredients>
+			<price>9.95</price>
+		</entry>
+		<entry id="12">
+			<name>Classic Club</name>
+			<ingredients>Turkey, ham, bacon, cheese, tomatoes, lettuce, toasted wheat bread, mayonnaise</ingredients>
+			<price>9.95</price>
+		</entry>
+		<entry id="13">
+			<name>Meatball Sandwich</name>
+			<ingredients>open-faced with meatballs, tomato sauce, mozzarella</ingredients>
+			<price>9.95</price>
+		</entry>
+		<entry id="14">
+			<name>Philadelphia Style Cheesesteak Sandwich</name>
+			<ingredients>sliced sirloin, onions, mushrooms, bell peppers, provolone cheese</ingredients>
+			<price>10.95</price>
+		</entry>
+		<entry id="15">
+			<name>Chicken Parmesan Panini</name>
+			<ingredients>fried chicken, Italian bread crumbs, marinara, basil, mozzarella cheese, grilled panini bread</ingredients>
+			<price>9.95</price>
+		</entry>
+	</sandwiches>
+	
+	<entrees description="Served with choice of soup, House, Wedge, Caesar, Spinach, Sweet Spinach, or Greeksalad plus one side dish and bread.">
+		<entry id="16">
+			<name>Chopped Steak</name>
+			<ingredients>8oz. grilled ground sirloin</ingredients>
+			<price>15.95</price>
+		</entry>
+		<entry id="17">
+			<name>Top Sirloin</name>
+			<ingredients>Grilled 6oz. choice sirloin</ingredients>
+			<price>17.95</price>
+		</entry>
+		<entry id="18">
+			<name>New York Strip</name>
+			<ingredients>Grilled 8oz. choice New York strip steak</ingredients>
+			<price>21.95</price>
+		</entry>
+		<entry id="19">
+			<name>Chicken Caprese</name>
+			<ingredients>grilled chicken, tomatoes, mozzarella, basil, balsamic drizzle</ingredients>
+			<price>16.95</price>
+		</entry>
+		<entry id="20">
+			<name>Grouper Piccatta</name>
+			<ingredients>Sautéed in lemon wine sauce with capers</ingredients>
+			<price>21.95</price>
+		</entry>
+	</entrees>
+	<pizzas description="Our pizzas are prepared with your choice of tomato sauce, garlic oil, alfredo, basil pesto, mushroom pesto.">
+		<entry id="21">
+			<name>Calzone</name>
+			<ingredients>Comes with ricotta cheese and a choice off our ingredients. Served with marinara sauce</ingredients>
+			<price>9.95</price>
+		</entry>
+		<entry id="22">
+			<name>Vegetarian</name>
+			<ingredients>Zucchini, squash, onions, mushrooms, tomatoes, sweet peppers, black olives. Choose tomato sauce, basil pesto</ingredients>
+			<price>8.95</price>
+		</entry>
+		<entry id="23">
+			<name>Hawaiian Pizza</name>
+			<ingredients>Canadian bacon, ham, bacon, pineapple, garlic oil, mozzarella</ingredients>
+			<price>9.95</price>
+		</entry>
+		<entry id="24">
+			<name>Margherita Pizza</name>
+			<ingredients>Extra virgin oliveoil, parmesan cheese, tomatoes, fresh basil</ingredients>
+			<price>8.95</price>
+		</entry>
+		<entry id="25">
+			<name>Italian Special</name>
+			<ingredients>sausage, pepperoni, salami, banana peppers, red onions, spinach, mozzarella, tomato sauce</ingredients>
+			<price>9.95</price>
+		</entry>
+	</pizzas>
+	<pasta description="Served with choice of soup, House, Wedge, Spinach, Sweet Spinach, Caesar, or Greek salad and bread.">
+		<entry id="26">
+			<name>Pasta Pomodoro</name>
+			<ingredients>Tomatoes, basil, garlic, olive oil, white wine tossed in angel hair pasta topped with parmesan cheese </ingredients>
+			<price with_shrimp="18.95" with_chicken="16.95">14.95</price>
+		</entry>
+		<entry id="27">
+			<name>Pasta Primavera</name>
+			<ingredients>pasta, portabella mushrooms, garlic, zucchini, squash, broccoli, basil pesto, alfredo sauce, red bell pepper, parmesan cheese</ingredients>
+			<price with_chicken="16.95">14.95</price>
+		</entry>
+		<entry id="28">
+			<name>Baked Spaghetti with Meat Sauce or Meatballs</name>
+			<ingredients>and mozzarella</ingredients>
+			<price>15.95</price>
+		</entry>
+		<entry id="29">
+			<name>Lasagna</name>
+			<ingredients>noodles layered with meat sauce, ricotta, mozzarella, marinara, meatball</ingredients>
+			<price>15.95</price>
+		</entry>
+		<entry id="30">
+			<name>Lobster Ravioli</name>
+			<ingredients>Lobster ravioli served in a delicate blush sauce</ingredients>
+			<price>18.95</price>
+		</entry>
+	</pasta>
+</menu>
