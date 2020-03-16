@@ -13,11 +13,12 @@ Simply put the server.php and the XML files (e.g. the two provided example XML f
 If some requests aren‘t working, make sure that the files have the correct chmod permissions. Also set the permissions of the folder containing the files.
 
 <h2><b>Your To-Do List</b></h2>
-→ change values of the API keys
-→ modify POST method for your XML structure
-Example URLs & Requests
+→ change values of the API keys<br>
+→ modify POST method for your XML structure<br>
 
-<h2>GET</h2>
+<h2>Example URLs & Requests</h2>
+
+<h3>GET</h3>
 
 	<your-url>/server.php
 
@@ -41,7 +42,7 @@ Example URLs & Requests
 
 
 
-<h2>PUT</h2>
+<h3>PUT</h3>
 
 	<your-url>/server.php/weather/station/weather/element/description/massive intensity drizzle 
 	Content (Body, raw, JSON):
@@ -50,7 +51,7 @@ Example URLs & Requests
 	}
 
 
-<h2>DELETE</h2>
+<h3>DELETE</h3>
 
 Delete XML entry:
 
@@ -71,7 +72,7 @@ Delete file:
 	}
 
 
-<h2>POST</h2>
+<h3>POST</h3>
 
 Add to XML:
 
