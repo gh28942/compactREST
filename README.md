@@ -1,5 +1,5 @@
 # compactREST
-CompactREST is a ready-to-use deployable REST service. This implementation makes use of XML files to store data and XPath to look up information. Just upload your xml file and the CompactREST php file to your server and you're ready to go.
+CompactREST is a ready-to-use deployable REST service. This implementation makes use of xml files to store data and XPath to look up information. Just upload your xml file and the CompactREST php file to your server and you're ready to go.
 
 
 
